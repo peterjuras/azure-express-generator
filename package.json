@@ -38,7 +38,7 @@
     "gulp-json-editor": "^2.2.1",
     "gulp-rename": "^1.2.2",
     "gulp-template": "^4.0.0",
-    "inquirer": "^1.0.0",
+    "inquirer": "^1.0.3",
     "run-sequence": "^1.1.4",
     "validate-npm-package-name": "^2.2.2"
   },
