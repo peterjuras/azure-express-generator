@@ -46,7 +46,7 @@
     "del": "^2.1.0",
     "env-test": "^1.0.0",
     "mkdirp": "^0.5.1",
-    "mocha": "^2.3.3",
+    "mocha": "^3.0.0",
     "mock-gulp-dest": "^0.1.1",
     "should": "^11.0.0",
     "typescript": "^1.6.2"
