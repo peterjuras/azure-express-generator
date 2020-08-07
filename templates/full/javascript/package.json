@@ -39,7 +39,7 @@
     "mocha": "^2.3.4",
     "react-addons-test-utils": "^15.0.1",
     "should": "^8.2.2",
-    "superagent": "^1.4.0"
+    "superagent": "^5.3.1"
   },
   "jspm": {
     "directories": {
